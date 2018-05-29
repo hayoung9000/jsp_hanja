@@ -1,0 +1,5 @@
+
+5월 29, 2018 13:26:11.35 NEW SESSION
+5월 29, 2018 13:26:11.35 [10468:9448:0529/132611.347:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: NTPContentSuggestionsEnabled
+5월 29, 2018 13:26:11.40 [10468:14744:0529/132611.400:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5월 29, 2018 13:43:19.32 Unable to read VR Path Registry from C:\Users\Mirim\AppData\Local\openvr\openvrpaths.vrpath
